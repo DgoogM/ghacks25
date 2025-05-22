@@ -1,0 +1,18 @@
+.fileInputContainer {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.fileInputContainer label {
+  margin-bottom: 5px;
+  font-size: 14px;
+  color: #333;
+}
+
+.fileInputContainer input[type="file"] {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+}

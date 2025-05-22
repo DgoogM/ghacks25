@@ -1,0 +1,27 @@
+.resultsDisplay {
+  margin-top: 20px;
+  padding: 15px;
+  background-color: #f0f0f0;
+  border: 1px solid #dcdcdc;
+  border-radius: 5px;
+}
+
+.resultsDisplay h3 {
+  margin-top: 0;
+  color: #333;
+}
+
+.resultsDisplay p {
+  margin-bottom: 8px;
+  line-height: 1.6;
+}
+
+.resultsDisplay .score {
+  font-weight: bold;
+  color: #0070f3;
+}
+
+.noResults {
+  font-style: italic;
+  color: #666;
+}
